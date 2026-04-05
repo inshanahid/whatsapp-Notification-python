@@ -27,7 +27,8 @@ This project is built using Python and Twilio API to send automated WhatsApp mes
 4. Run the project:
    python main.py
 
-## Use Cases
+## output example
+![Output Screenshot](screenshot.png)
 
 * Reminder systems
 * Notification alerts
